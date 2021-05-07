@@ -1,0 +1,51 @@
+.foto-perfil{
+    border-radius: 100%;
+    max-width: 200px;
+    border: 1px solid black;
+
+}
+
+body{
+    background-color: #f3f2f2;
+}
+
+.Curriculo1{
+    border-top-left-radius: 100px;
+    border-radius: 100px;
+    motion: auto;
+    border: 2px solid black;
+    border-color: #0D6EFD
+    
+    
+}
+
+
+.Trabalho1{
+    border-top-left-radius: 100px;
+    border-radius: 100px;
+    motion: auto;
+    border: 2px solid #0D6EFD;
+    border-color: #0D6EFD
+    
+}
+
+.Fotosalario{
+    border-top-left-radius: 100px;
+    border-radius: 100px;
+    motion: auto;
+    border: 2px solid #1fa113;
+    border-color: #1fa113;
+}
+
+.areadocirculo{
+    border-top-left-radius: 100px;
+    border-radius: 100px;
+    motion: auto;
+    border: 2px solid #6d13a194;
+    border-color: #6d13a194;
+}
+
+
+
+
+
